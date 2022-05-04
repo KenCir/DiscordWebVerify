@@ -122,4 +122,4 @@ process.on('unhandledRejection', (err) => {
 });
 
 app.listen(3000);
-client.login('ODM3NzU0OTgzOTI2NzI2Njg3.YIxKIA.X5OB9bOEYKl0W1cv3wB4NVp08d8');
+client.login('');
